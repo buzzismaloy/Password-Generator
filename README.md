@@ -20,7 +20,7 @@ The program works in an interactive mode: it prompts the user for input and gene
 
 3. Run the script:
     ```bash
-    python3 password_generator.py
+    python3 main.py
     ```
 
 4. Follow the prompts:
